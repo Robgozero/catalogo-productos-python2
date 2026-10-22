@@ -1,0 +1,5 @@
+# Base de datos creada al ejecutar el programa
+catalogo.db
+# Archivos temporales de Python
+__pycache__/
+*.pyc
